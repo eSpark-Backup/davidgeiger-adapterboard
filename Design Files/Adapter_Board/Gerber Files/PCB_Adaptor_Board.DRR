@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB_Adaptor_Board.PcbDoc   5/10/2024  9:53:59 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB_Adaptor_Board.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             207       PTH        45.21inch (1148.22mm)
+T2      32mil (0.8mm)                                             Round             12        PTH        1.90inch (48.26mm)
+T3      35mil (0.9mm)                                             Round             3         PTH        0.20inch (5.08mm)
+T4      39mil (1mm)                                               Round             26        PTH        2.70inch (68.58mm)
+T5      48mil (1.21mm)                                            Round             135       PTH        19.66inch (499.27mm)
+T6      51mil (1.3mm)                                             Round             94        PTH        13.85inch (351.73mm)
+T7      138mil (3.5mm)                                            Round             3         PTH        3.65inch (92.60mm)
+T8      130mil (3.3mm)                                            Round             5         NPTH       4.71inch (119.75mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              485
+
+Two holes at same point : 1
+-----------------------
+2689,2724
+
+Total Processing Time (hh:mm:ss) : 00:00:00
