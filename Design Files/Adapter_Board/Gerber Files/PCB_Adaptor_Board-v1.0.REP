@@ -1,9 +1,9 @@
 *************************************************************
-FileName = PCB_Adaptor_Board.GBR
+FileName = PCB_Adaptor_Board-v1.0.GBR
 AutoAperture = True
 *************************************************************
 Generating : Board Outline
-      File : PCB_Adaptor_Board.GM2
+      File : PCB_Adaptor_Board-v1.0.GM2
 
     Adding Layer      : Board Outline
 
@@ -14,7 +14,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Keep-Out Layer
-      File : PCB_Adaptor_Board.GKO
+      File : PCB_Adaptor_Board-v1.0.GKO
 
     Adding Layer      : Keep-Out Layer
 
@@ -24,7 +24,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Bottom Overlay
-      File : PCB_Adaptor_Board.GBO
+      File : PCB_Adaptor_Board-v1.0.GBO
 
     Adding Layer      : Bottom Overlay
 
@@ -34,7 +34,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Bottom Paste
-      File : PCB_Adaptor_Board.GBP
+      File : PCB_Adaptor_Board-v1.0.GBP
 
     Adding Layer      : Bottom Paste
 
@@ -48,7 +48,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Bottom Solder
-      File : PCB_Adaptor_Board.GBS
+      File : PCB_Adaptor_Board-v1.0.GBS
 
     Adding Layer      : Bottom Solder
 
@@ -78,7 +78,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Top Solder
-      File : PCB_Adaptor_Board.GTS
+      File : PCB_Adaptor_Board-v1.0.GTS
 
     Adding Layer      : Top Solder
 
@@ -111,7 +111,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Top Paste
-      File : PCB_Adaptor_Board.GTP
+      File : PCB_Adaptor_Board-v1.0.GTP
 
     Adding Layer      : Top Paste
 
@@ -128,7 +128,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Top Overlay
-      File : PCB_Adaptor_Board.GTO
+      File : PCB_Adaptor_Board-v1.0.GTO
 
     Adding Layer      : Top Overlay
 
@@ -141,7 +141,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Top Pad Master
-      File : PCB_Adaptor_Board.GPT
+      File : PCB_Adaptor_Board-v1.0.GPT
 
     Adding Layer      : Top Layer
 
@@ -169,7 +169,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Bottom Pad Master
-      File : PCB_Adaptor_Board.GPB
+      File : PCB_Adaptor_Board-v1.0.GPB
 
     Adding Layer      : Bottom Layer
 
@@ -194,7 +194,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Bottom Layer
-      File : PCB_Adaptor_Board.GBL
+      File : PCB_Adaptor_Board-v1.0.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -225,7 +225,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Top Layer
-      File : PCB_Adaptor_Board.GTL
+      File : PCB_Adaptor_Board-v1.0.GTL
 
     Adding Layer      : Top Layer
 
@@ -260,7 +260,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Drill Drawing
-      File : PCB_Adaptor_Board.GD1
+      File : PCB_Adaptor_Board-v1.0.GD1
 
     Adding Drill Pair : Top Layer-Bottom Layer
 
@@ -276,7 +276,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Drill Guide
-      File : PCB_Adaptor_Board.GG1
+      File : PCB_Adaptor_Board-v1.0.GG1
 
     Adding Drill Pair : Top Layer-Bottom Layer
 

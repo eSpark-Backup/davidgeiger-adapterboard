@@ -1,0 +1,31 @@
+Altium Designer Pick and Place Locations
+C:\Users\LiberDB\Documents\GitHub\davidgeiger-adapterboard\Design Files\Adapter_Board\Project Outputs for Adapter_Board-v1.0\Pick Place for PCB_Adaptor_Board-v1.0.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       03/07/24
+Time:       17:55
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Layer","Center-X(mm)","Center-Y(mm)","Rotation","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)"
+"J1","TopLayer","67,5348mm","17,5970mm","0","67,5348mm","17,5970mm","34,6849mm","25,8220mm"
+"J2","TopLayer","43,0508mm","76,4436mm","180","43,0508mm","76,4436mm","71,3008mm","69,1936mm"
+"J3","TopLayer","108,0508mm","76,3500mm","180","108,0508mm","76,3500mm","127,3008mm","83,6000mm"
+"J4","TopLayer","54,8067mm","35,2169mm","0","54,8067mm","35,2169mm","54,8067mm","35,2169mm"
+"J5","TopLayer","58,6167mm","35,2169mm","0","58,6167mm","35,2169mm","58,6167mm","35,2169mm"
+"J6","TopLayer","68,7767mm","58,0769mm","0","68,7767mm","58,0769mm","59,8867mm","58,0769mm"
+"J7","TopLayer","71,3167mm","35,2169mm","0","71,3167mm","35,2169mm","62,4267mm","35,2169mm"
+"J8","TopLayer","77,6667mm","37,7569mm","0","75,1267mm","37,7569mm","75,1267mm","37,7569mm"
+"J9","TopLayer","80,2067mm","49,1869mm","90","80,2067mm","49,1869mm","80,2067mm","40,2969mm"
+"Q1","TopLayer","95,3556mm","39,4119mm","270","95,3556mm","39,4119mm","96,3556mm","40,3619mm"
+"Q2","TopLayer","95,3556mm","52,1119mm","270","95,3556mm","52,1119mm","96,3556mm","53,0619mm"
+"R1","TopLayer","95,2573mm","41,9479mm","0","95,2573mm","41,9479mm","94,4953mm","41,9479mm"
+"R2","TopLayer","97,8194mm","39,5770mm","90","97,8194mm","39,5770mm","97,8194mm","38,8150mm"
+"R3","TopLayer","95,2573mm","54,6479mm","0","95,2573mm","54,6479mm","94,4953mm","54,6479mm"
+"R4","TopLayer","97,8194mm","52,3024mm","90","97,8194mm","52,3024mm","97,8194mm","51,5404mm"
+"R5","TopLayer","42,0664mm","64,5198mm","270","42,0664mm","64,5198mm","42,0664mm","65,2818mm"
+"U1","TopLayer","88,6713mm","39,4079mm","180","88,6713mm","39,4079mm","92,4813mm","41,9479mm"
+"U2","TopLayer","88,6713mm","52,1079mm","180","88,6713mm","52,1079mm","92,4813mm","54,6479mm"

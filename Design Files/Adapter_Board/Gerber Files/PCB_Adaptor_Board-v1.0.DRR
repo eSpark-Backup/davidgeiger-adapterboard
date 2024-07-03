@@ -1,13 +1,13 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: PCB_Adaptor_Board.PcbDoc   5/10/2024  9:53:59 PM
+NCDrill File Report For: PCB_Adaptor_Board-v1.0.PcbDoc   7/3/2024  5:59:37 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
-ASCII RoundHoles File : PCB_Adaptor_Board.TXT
+ASCII RoundHoles File : PCB_Adaptor_Board-v1.0.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             207       PTH        45.21inch (1148.22mm)
+T1      12mil (0.3mm)                                             Round             209       PTH        45.69inch (1160.60mm)
 T2      32mil (0.8mm)                                             Round             12        PTH        1.90inch (48.26mm)
 T3      35mil (0.9mm)                                             Round             3         PTH        0.20inch (5.08mm)
 T4      39mil (1mm)                                               Round             26        PTH        2.70inch (68.58mm)
@@ -16,7 +16,7 @@ T6      51mil (1.3mm)                                             Round         
 T7      138mil (3.5mm)                                            Round             3         PTH        3.65inch (92.60mm)
 T8      130mil (3.3mm)                                            Round             5         NPTH       4.71inch (119.75mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              485
+Totals                                                                              487
 
 Two holes at same point : 1
 -----------------------
